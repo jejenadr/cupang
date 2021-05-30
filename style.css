@@ -1,0 +1,20 @@
+.jumbotron {
+	background-color: #e2edff;
+}
+#projects	{
+	background-color: #e2edff;
+}
+
+section {
+	padding-top: 5rem;
+}
+#about {
+	background-color: #777;
+	color: white;
+}
+footer {
+	background-color: #777;
+}
+.carousel-caption {
+	text-shadow: 1px 1px 2px black;
+}
